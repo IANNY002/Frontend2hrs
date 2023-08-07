@@ -25,8 +25,21 @@ const music_list = [
         name : "All Too Well (Taylor's Version)",
         artist : 'Taylor Swift',
         music : 'music/alltoowell.mp3'
+    },
+    {
+        img : 'images/taylor.png',
+        name : "Love Story",
+        artist : 'Taylor Swift',
+        music : 'music/lovestory.mp3'
+    },
+    {
+        img : 'images/sosa.png',
+        name : "Love Story",
+        artist : 'Chief Keef',
+        music : 'music/playboi carti - immortal (prod. cash carti).mp3'
     }
 ];
+
 
 loadTrack(track_index);
 
